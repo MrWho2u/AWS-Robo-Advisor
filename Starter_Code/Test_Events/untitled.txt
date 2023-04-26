@@ -1,0 +1,29 @@
+{
+  "activeContexts": [],
+  "alternativeIntents": [
+    {
+      "intentName": "AMAZON.FallbackIntent",
+      "nluIntentConfidence": null,
+      "slots": {}
+    }
+  ],
+  "botVersion": "$LATEST",
+  "dialogState": "ConfirmIntent",
+  "intentName": "recommendPortfolio",
+  "message": "Thanks would you like to proceed?",
+  "messageFormat": "PlainText",
+  "nluIntentConfidence": {
+    "score": 1
+  },
+  "responseCard": null,
+  "sentimentResponse": null,
+  "sessionAttributes": {},
+  "sessionId": "2023-04-25T01:52:00.439Z-YvTWfUVf",
+  "slotToElicit": null,
+  "slots": {
+    "age": "34",
+    "firstName": "billy",
+    "investmentAmount": "8000",
+    "riskLevel": "low"
+  }
+}
